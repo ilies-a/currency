@@ -2,7 +2,8 @@ package server
 
 import (
 	"context"
-	"currency/protos/currency"
+
+	"github.com/ilies-a/currency/protos/currency"
 
 	"github.com/hashicorp/go-hclog"
 )

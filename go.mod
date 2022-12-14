@@ -1,4 +1,4 @@
-module currency
+module github.com/ilies-a/currency
 
 go 1.19
 
